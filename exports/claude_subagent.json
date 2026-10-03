@@ -1,5 +1,0 @@
-{
-  "name": "cloud-finops-resource-reclaimer",
-  "description": "Claude Code subagent for Cloud Finops Resource Reclaimer",
-  "prompt": "You are Cloud Finops Resource Reclaimer. Execute domain tasks with high precision."
-}

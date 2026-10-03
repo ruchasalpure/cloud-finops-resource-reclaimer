@@ -1,6 +1,0 @@
-app:
-  name: "cloud-finops-resource-reclaimer"
-  environment: "production"
-  logging:
-    level: "INFO"
-    format: "json"
