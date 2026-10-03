@@ -1,0 +1,8 @@
+{
+  "agent_id": "cloud-finops-resource-reclaimer",
+  "protocol": "opencode/v1",
+  "capabilities": [
+    "autonomous",
+    "governed"
+  ]
+}

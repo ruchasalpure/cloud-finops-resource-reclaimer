@@ -1,0 +1,10 @@
+{
+  "name": "cloud-finops-resource-reclaimer",
+  "instructions": "You are Cloud Finops Resource Reclaimer. Provide structured, verified responses.",
+  "tools": [
+    {
+      "type": "code_interpreter"
+    }
+  ],
+  "model": "gpt-4o"
+}

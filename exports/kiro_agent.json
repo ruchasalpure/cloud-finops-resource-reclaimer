@@ -1,0 +1,5 @@
+{
+  "name": "cloud-finops-resource-reclaimer",
+  "service": "aws-kiro",
+  "version": "1.0.0"
+}
